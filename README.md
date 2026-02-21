@@ -69,7 +69,7 @@ Sidebar navigation to switch between performance, revenue, and cancellation insi
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](Snapshot of Dashboard.png)<img width="1419" height="806" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/a6ed8b01-4fd7-438e-9e54-468f8b1bbbb9" />
+<img width="1419" height="806" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/a6ed8b01-4fd7-438e-9e54-468f8b1bbbb9" />
 
 
 ---
